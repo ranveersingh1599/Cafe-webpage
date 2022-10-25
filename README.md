@@ -9,7 +9,7 @@ I uploaded my code to storage accounts in azure
 Link of my project (project url): https://polite-sea-0b589cb10.2.azurestaticapps.net/
 
 
-Some of the images taken while doing the project( steps followed)
+Some of the images taken while doing the project( images showing the use of azure services)
 
 1.creating storage account
 ![image](https://user-images.githubusercontent.com/113858527/197775986-44487211-9e22-45d7-83e6-6d99a8a529b9.png)
